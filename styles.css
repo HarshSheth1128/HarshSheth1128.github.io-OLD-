@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 
+
 body {
   text-align: center;
   background-color:	#d3d4d9;
   font-family: "Abel";
   background-image: url('https://static.pexels.com/photos/114979/pexels-photo-114979.jpeg');
-  background-size: 1000px 750px;
+  background-size: 100% 100%;
 
   background-attachment: fixed;
   background-position: center;
