@@ -62,8 +62,8 @@ body {
  * Header
  */
 .masthead {
-  position: relative;
-  right: 0;
+  position: fixed;
+  right: 2.5%;
   font-family: "Abel";
   margin-bottom: 2rem;
 }

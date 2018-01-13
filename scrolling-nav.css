@@ -19,7 +19,7 @@ header {
 
 /*Header*/
 .masthead {
-  position: relative;
+  position: fixed;
   right: 2.5%;
   font-family: "Abel";
   margin-bottom: 2rem;
