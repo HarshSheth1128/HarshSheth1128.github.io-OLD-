@@ -45,7 +45,7 @@ body {
 }
 .site-wrapper-inner {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
 }
 .cover-container {
   margin-right: auto;
@@ -54,7 +54,7 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 2rem;
+  padding: 3rem;
 }
 
 
@@ -62,8 +62,7 @@ body {
  * Header
  */
 .masthead {
-  position: fixed;
-  right: 2.5%;
+  position: absolute;
   font-family: "Abel";
   margin-bottom: 2rem;
 }
@@ -100,7 +99,7 @@ body {
     float: left;
   }
   .nav-masthead {
-    float: right;
+    float: left;
   }
 }
 
@@ -109,6 +108,7 @@ body {
  * Cover
  */
 .cover {
+  position: relative;
   padding: 0 1.5rem;
 }
 

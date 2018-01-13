@@ -19,10 +19,10 @@ header {
 
 /*Header*/
 .masthead {
-  position: fixed;
-  right: 2.5%;
+  padding-right: 2.5%;
+  position: relative;
+  background-color: #007bff;
   font-family: "Abel";
-  margin-bottom: 2rem;
 }
 
 .masthead-brand {
